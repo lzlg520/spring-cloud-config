@@ -11,6 +11,8 @@ spring:
           search-paths:
             - springcoud-config
       label: master
+config:
+  info: helloworld,version=1
 
 eureka:
   client:
