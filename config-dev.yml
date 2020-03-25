@@ -11,11 +11,6 @@ spring:
           search-paths:
             - springcoud-config
       label: master
-  rabbitmq:
-    host: 192.168.113.6
-    port: 5672
-    username: guest
-    password: guest
 
 eureka:
   client:
